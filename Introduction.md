@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdrianCLawrence
+- 👋 Hi, I’m @AdrianCLawrence, I am twenty eight year old who is trying his hand at something a bit different. I have a BA in Psychology and am looking to get some side jobs to suppliment my income in order to get my Master's and PhD.
 - 👀 I’m interested in making Apps, learning more information about the tools I use, and seeing where I can apply all this new information.
 - 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to collaborate on new apps and simple systems.
